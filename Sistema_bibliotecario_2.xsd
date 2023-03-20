@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sistema_bibliotecario>
+  <Biblioteca nome="Biblioteca di Milano" codice="BM001">
+    <Categoria genere="Fantastico">
+      <Libro codice="F0000">
+        <Titolo>Il Signore degli Anelli</Titolo>
+        <Autore>J.R.R. Tolkien</Autore>
+        <Edizione>1955</Edizione>
+        <ISBN>9788807909876</ISBN>
+        <Copie>10</Copie>
+      </Libro>
+    </Categoria>
+  </Biblioteca>
+  <Biblioteca nome="Biblioteca di Roma" codice="BR">
+      <Libro codice="S0002">
+        <Titolo>L'isola del tesoro</Titolo>
+        <Autore>Robert Louis Stevenson</Autore>
+        <Edizione>1883</Edizione>
+        <ISBN>9788845262683</ISBN>
+        <Copie>45</Copie>
+      </Libro>
+    </Categoria>
+  </Biblioteca>
+  <Biblioteca nome="Biblioteca di Napoli" codice="BN0001">
+    <Categoria genere="Fantascienza">
+      <Libro codice="F0003">
+        <Titolo>Do Androids Dream of Electric Sheep?</Titolo>
+        <Autore>Philip K. Dick</Autore>
+        <Edizione>1968</Edizione>
+        <ISBN>9788845262683</ISBN>
+        <Copie>75</Copie>
+      </Libro>
+    </Categoria>
+  </Biblioteca>
+</Sistema_bibliotecario>

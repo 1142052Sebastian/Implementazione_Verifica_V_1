@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sistema_bibliotecario>
+  <Biblioteca nome="Biblioteca di Milano" codice="BM001">
+    <Categoria genere="Fantastico">
+      <Libro codice="F0000">
+        <Titolo>Il Signore degli Anelli</Titolo>
+        <Autore>Tolkien</Autore>
+        <Edizione>1955</Edizione>
+        <ISBN>9788807909876</ISBN>
+        <Copie>10</Copie>
+      </Libro>
+      <Libro codice="F0001">
+        <Titolo>Harry Potter e la Pietra Filosofale</Titolo>
+        <Autore>J.K. Rowling</Autore>
+        <Edizione>1997</Edizione>
+        <ISBN>9788804519107</ISBN>
+        <Copie>15</Copie>
+      </Libro>
+      <Libro codice="F0002">
+        <Titolo>La Storia Infinita</Titolo>
+        <Autore>Michael Ende</Autore>
+        <Edizione>1979</Edizione>
+        <ISBN>9788811692641</ISBN>
+        <Copie>20</Copie>
+      </Libro>
+      <Libro codice="F0003">
+        <Titolo>Il Piccolo Principe</Titolo>
+        <Autore>Antoine de Saint-Exupéry</Autore>
+        <Edizione>1943</Edizione>
+        <ISBN>9788834001863</ISBN>
+        <Copie>25</Copie>
+      </Libro>
+      <Libro codice="F0004">
+        <Titolo>Il GGG</Titolo>
+        <Autore>Roald Dahl</Autore>
+        <Edizione>1982</Edizione>
+        <ISBN>9788804519107</ISBN>
+        <Copie>30</Copie>
+      </Libro>
+    </Categoria>
+  </Biblioteca>
+  <Biblioteca nome="Biblioteca di Roma" codice="BR">
+    <Categoria genere="Storico">
+      <Libro codice="S0000">
+        <Titolo>Il Nome della Rosa</Titolo>
+        <Autore>Umberto Eco</Autore>
+        <Edizione>1980</Edizione>
+        <ISBN>9788845262683</ISBN>
+        <Copie>35</Copie>
+      </Libro>
+      <Libro codice="S0001">
+        <Titolo>L'amante di Lady Chatterley</Titolo>
+        <Autore>D.H. Lawrence</Autore>
+        <Edizione>1928</Edizione>
+        <ISBN>9788845262683</ISBN>
+        <Copie>40</Copie>
+      </Libro>
+      <Libro codice="S0002">
+        <Titolo>L'isola del tesoro</Titolo>
+        <Autore>Robert Louis Stevenson</Autore>
+        <Edizione>1883</Edizione>
+        <ISBN>9788845262683</ISBN>
+        <Copie>45</Copie>
+      </Libro>
+      <Libro codice="S0003">
+        <Titolo>Orgoglio e Pregiudizio</Titolo>
+        <Autore>Jane Austen</Autore>
+        <Edizione>1813</Edizione>
+        <ISBN>9788845262683</ISBN>
+        <Copie>50</Copie>
+      </Libro>
+      <Libro codice="S0004">
+        <Titolo>I Fratelli Karamazov</Titolo>
+        <Autore>Fyodor Dostoevskij</Autore>
+        <Edizione>1880</Edizione>
+        <ISBN>9788845262683</ISBN>
+        <Copie>55</Copie>
+      </Libro>
+    </Categoria>
+  </Biblioteca>
+  <Biblioteca nome="Biblioteca di Napoli" codice="BN0001">
+    <Categoria genere="Fantascienza">
+      <Libro codice="F0000">
+        <Titolo>Farenheit 451</Titolo>
+        <Autore>Ray Bradbury</Autore>
+        <Edizione>1953</Edizione>
+        <ISBN>9788811665967</ISBN>
+        <Copie>60</Copie>
+      </Libro>
+      <Libro codice="F0001">
+        <Titolo>Guida Galattica per Autostoppisti</Titolo>
+        <Autore>Douglas Adams</Autore>
+        <Edizione>1979</Edizione>
+        <ISBN>9788845262683</ISBN>
+        <Copie>65</Copie>
+      </Libro>
+      <Libro codice="F0002">
+        <Titolo>Solaris</Titolo>
+        <Autore>Stanisław Lem</Autore>
+        <Edizione>1961</Edizione>
+        <ISBN>9788845262683</ISBN>
+        <Copie>70</Copie>
+      </Libro>
+      <Libro codice="F0003">
+        <Titolo>Do Androids Dream of Electric Sheep?</Titolo>
+        <Autore>Philip K. Dick</Autore>
+        <Edizione>1968</Edizione>
+        <ISBN>9788845262683</ISBN>
+        <Copie>75</Copie>
+      </Libro>
+      <Libro codice="F0004">
+        <Titolo>La Strada</Titolo>
+        <Autore>Cormac McCarthy</Autore>
+        <Edizione>2006</Edizione>
+        <ISBN>9788845262683</ISBN>
+        <Copie>80</Copie>
+      </Libro>
+    </Categoria>
+  </Biblioteca>
+</Sistema_bibliotecario>

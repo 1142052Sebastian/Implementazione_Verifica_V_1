@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Sistema_bibliotecario">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Biblioteca" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Categoria">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Libro" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Titolo" type="xs:string"/>
+                          <xs:element name="Autore" type="xs:string"/>
+                          <xs:element name="Edizione" type="xs:string"/>
+                          <xs:element name="ISBN" type="xs:string"/>
+                          <xs:element name="Copie" type="xs:integer"/>
+                        </xs:sequence>
+                        <xs:attribute name="codice" type="xs:string" use="required"/>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="genere" type="xs:string" use="required"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="nome" type="xs:string" use="required"/>
+            <xs:attribute name="codice" type="xs:string" use="required"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

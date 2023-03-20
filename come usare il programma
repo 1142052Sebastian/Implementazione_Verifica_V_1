@@ -1,0 +1,8 @@
+per usare il programma bisogna seguire i seguenti passaggi:
+
+1) avviare il server
+2) Avviare il Client
+3) Inserire il comando cerca + , + autore ( cerca,rowling)
+4) uscirà una lista di libri disponibili per il seguente autore/autrice
+5) Selezionare l'indice del libro che si vuole ordinare e premere invio due volte
+6) L'ordine ricevera un messaggio di successo o di fallimento
